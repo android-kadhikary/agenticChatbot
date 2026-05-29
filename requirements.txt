@@ -1,0 +1,12 @@
+langchain-core==1.1.0
+langchain-classic==1.0.0
+langchain-openai==1.1.0
+langchain-groq==1.1.0
+langgraph==1.0.4
+langgraph-checkpoint==3.0.1
+langgraph-prebuilt==1.0.5
+langgraph-sdk==0.2.12
+langsmith==0.4.53
+streamlit==1.52.0
+python-dotenv==1.2.1
+langchain-community==0.4.1
